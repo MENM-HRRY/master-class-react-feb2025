@@ -111,7 +111,7 @@ function App() {
         <div className="container mx-auto px-4 py-4">
           <div className="flex justify-between items-center">
            <span className="text-gray-400 flex items-center">
-            <img src="/dist/assets/copuara.png" alt="Copyright Icon" className="w-5 h-5 mr-2" />
+            <img src="https://github.com/MENM-HRRY/master-class-react-feb2025/blob/main/dist/copuara.png?raw=true" alt="Copyright Icon" className="w-5 h-5 mr-2" />
               2025 Rick & Morty Developed By <span className="text-blue-600 ml-1">MEMN</span>
             </span>
             <div className="flex items-center gap-4">
